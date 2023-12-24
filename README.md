@@ -1,4 +1,4 @@
-## Assignment 4 directory
+## Multithreaded HTTP-server directory
 
 ##### Name: Sep Nasiriany
 
@@ -10,9 +10,6 @@
 ##### httpserver.c - C file that provides implementation for thread-pooled httpserver server
 ##### Makefile - Constructs program.
 ##### README.md - This file - containing List of files and author.
-
-#### Resources and help: I used all of Professor Quinn's helper header files, in addition to the .a file provided to us. I used the httpserver.c template that was given in the practica, and Mitchell's pseudocode that was given to us in section. The pseudocode was very helpful to creating my worker thread function. Everything else, including building my linked list, was my own implementation.
-
 
 
 
