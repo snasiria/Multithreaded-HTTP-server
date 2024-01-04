@@ -1,6 +1,6 @@
 ## Multithreaded HTTP-server directory
 
-##### Name: Sep Nasiriany
+##### Author: Sep Nasiriany
 
 ##### queue.h - Header file that provides abstract functions and data types for queue.c
 ##### rwlock.h - Header file that provides abstract functions and data types for rwlock.c
